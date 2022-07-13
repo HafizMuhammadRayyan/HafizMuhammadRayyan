@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hafzi Muhammad Rayyan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🌱 I’m currently learning **React, Node JS, MongoDB, and app development.**
+
+- 📞 My Phone Number [+923111801405](+923111801405)
 
 - 💬 Ask me about **Front-end developer, Html. CSS. Bootstrap, Tailwind CSS,**
 
