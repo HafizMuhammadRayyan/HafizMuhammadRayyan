@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hafizmuhammmadrayyan@gmail.com**
 
-- 📄 My LinkedIn profile link [https://www.linkedin.com/in/hafiz-muhammmad-rayyan/](https://www.linkedin.com/in/hafiz-muhammmad-rayyan/)
+- 📄 LinkedIn profile [https://www.linkedin.com/in/hafiz-muhammmad-rayyan/](https://www.linkedin.com/in/hafiz-muhammmad-rayyan/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
