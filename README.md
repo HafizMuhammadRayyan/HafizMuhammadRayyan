@@ -31,9 +31,11 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizmuhammadrayyan&show_icons=true&locale=en" alt="hafizmuhammadrayyan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizmuhammadrayyan&show_icons=true&locale=en" alt="hafizmuhammadrayyan" /></p>
 
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmuhammadrayyan&" alt="hafizmuhammadrayyan" /></p>
+
+<br>
 </details>
