@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Node JS, MongoDB**
 
-- ⛳️ MY 2022 Goal is Mastering JavaScript & Reactjs
+- ⛳️ MY 2022 Goal is **Mastering JavaScript & Reactjs**
 
 - 💬 Ask me about **JavaScript**
 
