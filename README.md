@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Rayyan</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/e5/e5298dca7b006d34f1b4546b8cfd7447_w200.webp">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/HaD1.gif">
 
 &nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizmuhammadrayyan&label=Profile%20views&color=0e75b6&style=flat" alt="hafizmuhammadrayyan" /> </p>
 
