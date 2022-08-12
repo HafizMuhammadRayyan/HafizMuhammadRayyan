@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hafiz-muhammmad-rayyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hafiz-muhammmad-rayyan/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18223231/hafiz-muhammad-rayyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18223231/hafiz-muhammad-rayyan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/hafiz.m.rayyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hafiz.m.rayyan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hafiz-muhammmad-rayyan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hafiz-muhammmad-rayyan/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18223231/hafiz-muhammad-rayyan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18223231/hafiz-muhammad-rayyan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hafiz.m.rayyan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hafiz.m.rayyan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
