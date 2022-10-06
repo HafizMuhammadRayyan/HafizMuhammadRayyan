@@ -8,7 +8,7 @@
 
 - ⛳️ MY 2022 Goal is **Mastering JavaScript & Reactjs**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript** 
 
 - 📫 How to reach me **hafizmuhammmadrayyan@gmail.com**
 
