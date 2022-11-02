@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dg5fxzdg1/image/upload/v1667368593/output-onlinegiftools_1_ufpjym.gif">
 
-&nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizmuhammadrayyan&label=Profile%20views&color=FFD700&style=flat" alt="hafizmuhammadrayyan" /> </p>
+&nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizmuhammadrayyan&label=Profile%30views&color=FFD700&style=flat" alt="hafizmuhammadrayyan" /> </p>
 
 - 🌱 I’m currently learning **React, Node JS, MongoDB**
 
