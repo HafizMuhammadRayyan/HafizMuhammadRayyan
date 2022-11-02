@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3> -->
 
 <p align="center" >
-<img src="https://readme-typing-svg.demolab.com?font=Kavivanar&size=42&duration=4042&pause=1000&color=FFD700&center=true&vCenter=true&width=1100&height=180&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Hafiz+Muhammad+Rayyan;A+Passionate+MERN+Stack+Developer+From+Pakistan;Never+Give+Up.+Great+Things+Take+Time..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Kavivanar&size=42&duration=4042&pause=1000&color=FFD700&center=true&vCenter=true&width=1100&height=180&lines=Hi+%F0%9F%91%8B%2C+I'm+Hafiz+Muhammad+Rayyan;A+Passionate+MERN+Stack+Developer+From+Pakistan;Never+Give+Up.+Great+Things+Take+Time..." alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dg5fxzdg1/image/upload/v1667368593/output-onlinegiftools_1_ufpjym.gif">
