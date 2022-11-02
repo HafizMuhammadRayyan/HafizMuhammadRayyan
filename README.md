@@ -9,10 +9,10 @@
 
 &nbsp;&nbsp;&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizmuhammadrayyan&label=Profile Views&color=FFD700&style=flat" alt="hafizmuhammadrayyan" /> </p>
 
-- 🌱 I’m currently learning **React, Node JS, MongoDB**
-- ⛳️ MY 2022 Goal is **Mastering JavaScript & Reactjs**
-- 💬 Ask me about **JavaScript** 
-- 📫 How to reach me **hafizmuhammmadrayyan@gmail.com**
+-🌱 I’m currently learning **React, Node JS, MongoDB**
+-⛳️ MY 2022 Goal is **Mastering JavaScript & Reactjs**
+-💬 Ask me about **JavaScript** 
+-📫 How to reach me **hafizmuhammmadrayyan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
